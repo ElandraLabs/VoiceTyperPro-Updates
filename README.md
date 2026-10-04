@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33030502/README.md)
 # VoiceTyperPro-Updates# Voice Typer Pro 3
 
 تایپ با صدا به فارسی و انگلیسی در همه‌ی برنامه‌های ویندوز. مکان‌نما را هر جا بگذارید، میانبر را بزنید و صحبت کنید؛ متن همان‌جا نوشته می‌شود.
